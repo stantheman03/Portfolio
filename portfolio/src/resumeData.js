@@ -54,7 +54,7 @@ let resumeData = {
         "specialization":"Front End Developer",
         "MonthOfLeaving":"",
         "YearOfLeaving":"",
-        "Achievements":"Javascript Engineer Intern"
+        "Achievements":"Future Javascript Engineer Intern"
       }
       
     ],
