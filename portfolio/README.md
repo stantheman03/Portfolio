@@ -63,7 +63,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-Live Demo: https://shielded-wave-59747.herokuapp.com/
 
 ### `npm run build` fails to minify
 
